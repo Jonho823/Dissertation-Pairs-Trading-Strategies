@@ -11,11 +11,11 @@ The dissertation utilizes a dataset comprising daily stock data from all constit
 
 ## Installation Instruction
 1. Clone this project
-2. Import ftse100_data_extraction.py module to download FTSE stock data into a CSV file.
-3. Utilize the distance_approach.py, cointegration_approach.py, and copula_approach.py modules to access functions for executing backtesting on pairs trading strategies based on different approaches.
-4. Evaluate the profitability of pairs trading strategies by employing the performance_measurement.py module to calculate performance metrics and generate reports.
-5. Refer to main.py for a demonstration of the execution process.
-6. Explore the documentation of various pairs trading strategies stored in pairs_trading_doc.ipynb for detailed insights and explanations.
+2. Import **`ftse100_data_extraction.py`** module to download FTSE stock data into a CSV file.
+3. Utilize the **`distance_approach.py`**, **`cointegration_approach.py`**, and **`copula_approach.py`** modules to access functions for executing backtesting on pairs trading strategies based on different approaches.
+4. Evaluate the profitability of pairs trading strategies by employing the **`performance_measurement.py`** module to calculate performance metrics and generate reports.
+5. Refer to **`main.py`** for a demonstration of the execution process.
+6. Explore the documentation of various pairs trading strategies stored in **`pairs_trading_doc.ipynb`** for detailed insights and explanations.
 
 ## Coding Contributions
 [1] H. Darbinyan (2021) Distance Method Complete Algo [Source code]. https://github.com/haykdb/thesis_2021/blob/main/Disrance%20Method%20Complete%20Algo.ipynb.
